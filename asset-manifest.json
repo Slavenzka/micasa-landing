@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/micasa-landing/static/css/main.88480865.chunk.css",
+    "main.css": "/micasa-landing/static/css/main.09d63474.chunk.css",
     "main.js": "/micasa-landing/static/js/main.86480a20.chunk.js",
     "main.js.map": "/micasa-landing/static/js/main.86480a20.chunk.js.map",
     "runtime-main.js": "/micasa-landing/static/js/runtime-main.f1637b80.js",
@@ -10,7 +10,7 @@
     "static/js/2.bd15ce88.chunk.js.map": "/micasa-landing/static/js/2.bd15ce88.chunk.js.map",
     "index.html": "/micasa-landing/index.html",
     "static/css/2.d1194fe6.chunk.css.map": "/micasa-landing/static/css/2.d1194fe6.chunk.css.map",
-    "static/css/main.88480865.chunk.css.map": "/micasa-landing/static/css/main.88480865.chunk.css.map",
+    "static/css/main.09d63474.chunk.css.map": "/micasa-landing/static/css/main.09d63474.chunk.css.map",
     "static/js/2.bd15ce88.chunk.js.LICENSE.txt": "/micasa-landing/static/js/2.bd15ce88.chunk.js.LICENSE.txt",
     "static/media/common.scss": "/micasa-landing/static/media/SFProDisplay-Regular.d5ff9f68.woff2",
     "static/media/MapBannerLayout.module.scss": "/micasa-landing/static/media/human.8ebee948.svg",
@@ -33,7 +33,7 @@
     "static/js/runtime-main.f1637b80.js",
     "static/css/2.d1194fe6.chunk.css",
     "static/js/2.bd15ce88.chunk.js",
-    "static/css/main.88480865.chunk.css",
+    "static/css/main.09d63474.chunk.css",
     "static/js/main.86480a20.chunk.js"
   ]
 }
