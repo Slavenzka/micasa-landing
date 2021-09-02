@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/micasa-landing/static/css/main.527b244e.chunk.css",
-    "main.js": "/micasa-landing/static/js/main.42170e82.chunk.js",
-    "main.js.map": "/micasa-landing/static/js/main.42170e82.chunk.js.map",
+    "main.js": "/micasa-landing/static/js/main.af708784.chunk.js",
+    "main.js.map": "/micasa-landing/static/js/main.af708784.chunk.js.map",
     "runtime-main.js": "/micasa-landing/static/js/runtime-main.f1637b80.js",
     "runtime-main.js.map": "/micasa-landing/static/js/runtime-main.f1637b80.js.map",
     "static/css/2.d1194fe6.chunk.css": "/micasa-landing/static/css/2.d1194fe6.chunk.css",
@@ -34,6 +34,6 @@
     "static/css/2.d1194fe6.chunk.css",
     "static/js/2.bd15ce88.chunk.js",
     "static/css/main.527b244e.chunk.css",
-    "static/js/main.42170e82.chunk.js"
+    "static/js/main.af708784.chunk.js"
   ]
 }
