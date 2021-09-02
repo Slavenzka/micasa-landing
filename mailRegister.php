@@ -1,13 +1,13 @@
 <?php
 
-if (filter_var($_POST['phone'], FILTER_VALIDATE_EMAIL)) {
+if (filter_var($_POST['phone'])) {
     if (isset($_POST['name']) && isset($_POST['phone'])) {
         $companyName = $_POST['name'];
         $companyPhone = $_POST['phone'];
         $companyManager = $_POST['representative'];
         $messageSubject = 'Новая заявка от micasa.club';
 
-        $to = "southern.resorts@gmail.com";
+        $to = "Info@micasa.club";
         $body = "Отримано нове звернення!\r\n";
         $body .= "Від компанії: ".$companyName. "\r\n";
         $body .= "Контактний телефон: ".$companyPhone. "\r\n";

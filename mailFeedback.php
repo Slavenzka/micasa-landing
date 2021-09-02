@@ -7,7 +7,7 @@ if (filter_var($_POST['email'], FILTER_VALIDATE_EMAIL)) {
         $userComment = $_POST['content'];
         $messageSubject = 'Новое сообщение от micasa.club';
 
-        $to = "southern.resorts@gmail.com";
+        $to = "Info@micasa.club";
         $body = "Отримано нове звернення!\r\n";
         $body .= "Від кого: ".$userName. "\r\n";
         $body .= "Email звернувся: ".$userEmail. "\r\n";
